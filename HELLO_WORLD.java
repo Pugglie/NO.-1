@@ -12,15 +12,5 @@ public class HELLO_WORLD {
 		System.out.println("Hello, humans\n");
 		//This is me testing out the backspace command (\b).
 		System.out.println("Hello...typingg\b");
-		//This is me making the eyes to my smiley face.
-		System.out.println("\t\t00");
-		//This is me making the edges of the mouth to my smiley face.
-		System.out.println("\t\\\t\t/");
-		//This in me completing the mouth of my smiley face.
-		System.out.println("\t-------------------------");
-		//This is me trying to create a house shape.
-		System.out.println("  l-l\n/---------\\\nl            l\nl    l-l     l\n------------");
-		//This is my sister making a stick figure.
-		System.out.println(" 0\n\\1/  ->Hello, world, this is virtual stick Rachel!\n 1\n /\\");
 	}
 } 
