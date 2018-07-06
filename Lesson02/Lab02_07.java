@@ -1,3 +1,5 @@
+//Rebecca Wei
+//7-5-18
 import java.util.Scanner;
 
 public class Lab02_07{
