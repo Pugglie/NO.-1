@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Ultimate_Calculator{
 	public static void main (String[] args){
 		
+		//Scanner setup
 		Scanner userInput = new Scanner (System.in);
 		
 		//asking for the numbers and the operation
